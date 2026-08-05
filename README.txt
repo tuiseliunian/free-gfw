@@ -1,13 +1,14 @@
-https://raw.githubusercontent.com/tuiseliunian/free-gfw/main/latest//clash0.yaml
-https://raw.githubusercontent.com/tuiseliunian/free-gfw/main/latest//clash1.yaml
-https://raw.githubusercontent.com/tuiseliunian/free-gfw/main/latest//clash100.yaml
-https://raw.githubusercontent.com/tuiseliunian/free-gfw/main/latest//clash2.yaml
-https://raw.githubusercontent.com/tuiseliunian/free-gfw/main/latest//clash3.yaml
-https://raw.githubusercontent.com/tuiseliunian/free-gfw/main/latest//clash4.yaml
-https://raw.githubusercontent.com/tuiseliunian/free-gfw/main/latest//sing-box.json
-https://raw.githubusercontent.com/tuiseliunian/free-gfw/main/latest//v2ray0.txt
-https://raw.githubusercontent.com/tuiseliunian/free-gfw/main/latest//v2ray1.txt
-https://raw.githubusercontent.com/tuiseliunian/free-gfw/main/latest//v2ray100.txt
-https://raw.githubusercontent.com/tuiseliunian/free-gfw/main/latest//v2ray2.txt
-https://raw.githubusercontent.com/tuiseliunian/free-gfw/main/latest//v2ray3.txt
-https://raw.githubusercontent.com/tuiseliunian/free-gfw/main/latest//v2ray4.txt
+https://github.com/tuiseliunian/free-gfw/tree/main/latest/20260805.json  (29.85 KB)
+https://github.com/tuiseliunian/free-gfw/tree/main/latest/clash0.yaml  (251.97 KB)
+https://github.com/tuiseliunian/free-gfw/tree/main/latest/clash1.yaml  (69.67 KB)
+https://github.com/tuiseliunian/free-gfw/tree/main/latest/clash100.yaml  (256.69 KB)
+https://github.com/tuiseliunian/free-gfw/tree/main/latest/clash2.yaml  (2.51 MB)
+https://github.com/tuiseliunian/free-gfw/tree/main/latest/clash3.yaml  (19.89 KB)
+https://github.com/tuiseliunian/free-gfw/tree/main/latest/clash4.yaml  (16.00 B)
+https://github.com/tuiseliunian/free-gfw/tree/main/latest/sing-box.json  (29.85 KB)
+https://github.com/tuiseliunian/free-gfw/tree/main/latest/v2ray0.txt  (120.49 KB)
+https://github.com/tuiseliunian/free-gfw/tree/main/latest/v2ray1.txt  (42.78 KB)
+https://github.com/tuiseliunian/free-gfw/tree/main/latest/v2ray100.txt  (122.25 KB)
+https://github.com/tuiseliunian/free-gfw/tree/main/latest/v2ray2.txt  (1.06 MB)
+https://github.com/tuiseliunian/free-gfw/tree/main/latest/v2ray3.txt  (10.13 KB)
+https://github.com/tuiseliunian/free-gfw/tree/main/latest/v2ray4.txt  (536.46 KB)
