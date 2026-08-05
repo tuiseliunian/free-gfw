@@ -93,7 +93,7 @@ for url, latest_name in tasks:
 
 # ---------- 生成 README.txt ----------
 readme_path = Path("README.txt")
-base_url = "https://github.com/tuiseliunian/free-gfw/tree/main/latest"
+base_url = "https://raw.githubusercontent.com/tuiseliunian/free-gfw/main/latest/"
 link_lines = []
 
 for file_path in sorted(latest_dir.glob("*")):
